@@ -1,0 +1,18 @@
+h1{
+  color:indigo;
+  text-align: center;
+  background-color:lavender;
+}
+h2{
+  color:teal
+}
+h3{
+  color:yellowgreen
+}
+
+body {
+  background-color: lightcyan;
+  border-style: double;
+  border-color: teal;
+  font-family: Georgia, serif;
+}
